@@ -1,0 +1,15 @@
+C:\Users\86139\Desktop\LearnGitHub\Hello-GitHub\bin\Debug\net8.0\Hello-GitHub.exe
+C:\Users\86139\Desktop\LearnGitHub\Hello-GitHub\bin\Debug\net8.0\Hello-GitHub.deps.json
+C:\Users\86139\Desktop\LearnGitHub\Hello-GitHub\bin\Debug\net8.0\Hello-GitHub.runtimeconfig.json
+C:\Users\86139\Desktop\LearnGitHub\Hello-GitHub\bin\Debug\net8.0\Hello-GitHub.dll
+C:\Users\86139\Desktop\LearnGitHub\Hello-GitHub\bin\Debug\net8.0\Hello-GitHub.pdb
+C:\Users\86139\Desktop\LearnGitHub\Hello-GitHub\obj\Debug\net8.0\Hello-GitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86139\Desktop\LearnGitHub\Hello-GitHub\obj\Debug\net8.0\Hello-GitHub.AssemblyInfoInputs.cache
+C:\Users\86139\Desktop\LearnGitHub\Hello-GitHub\obj\Debug\net8.0\Hello-GitHub.AssemblyInfo.cs
+C:\Users\86139\Desktop\LearnGitHub\Hello-GitHub\obj\Debug\net8.0\Hello-GitHub.csproj.CoreCompileInputs.cache
+C:\Users\86139\Desktop\LearnGitHub\Hello-GitHub\obj\Debug\net8.0\Hello-GitHub.sourcelink.json
+C:\Users\86139\Desktop\LearnGitHub\Hello-GitHub\obj\Debug\net8.0\Hello-GitHub.dll
+C:\Users\86139\Desktop\LearnGitHub\Hello-GitHub\obj\Debug\net8.0\refint\Hello-GitHub.dll
+C:\Users\86139\Desktop\LearnGitHub\Hello-GitHub\obj\Debug\net8.0\Hello-GitHub.pdb
+C:\Users\86139\Desktop\LearnGitHub\Hello-GitHub\obj\Debug\net8.0\Hello-GitHub.genruntimeconfig.cache
+C:\Users\86139\Desktop\LearnGitHub\Hello-GitHub\obj\Debug\net8.0\ref\Hello-GitHub.dll
